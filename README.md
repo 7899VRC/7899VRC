@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... VEX Coding with C++, Cad, MakeCode, and more!
 - 💞️ I’m looking to collaborate on ... VEX Robotics matters
 - 📫 How to reach me ... 7899@rollingrobots.com
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: ... i am a robot
 - ⚡ Fun fact: ... I'm a RollingRobots account..!
 
 <!---
